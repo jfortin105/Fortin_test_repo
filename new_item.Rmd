@@ -1,0 +1,15 @@
+---
+title: "new_item"
+author: "Josh Fortin"
+date: "2/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+str <- "Hello, World"
+```
+
